@@ -1,0 +1,6 @@
+exercises/__pycache__/
+exercises/t10k-images-idx3-ubyte.gz
+exercises/t10k-labels-idx1-ubyte.gz
+exercises/train-images-idx3-ubyte.gz
+exercises/train-labels-idx1-ubyte.gz
+
